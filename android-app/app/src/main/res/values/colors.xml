@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_deep">#FF040810</color>
+    <color name="surface">#FF0C1525</color>
+    <color name="cyan">#FF00D2FF</color>
+    <color name="cyan2">#FF00F5C8</color>
+    <color name="red_risk">#FFFF4560</color>
+    <color name="orange_risk">#FFFF8C42</color>
+    <color name="yellow_risk">#FFFFD166</color>
+    <color name="text_primary">#FFE8F4F8</color>
+    <color name="text_muted">#FF7A97B0</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
